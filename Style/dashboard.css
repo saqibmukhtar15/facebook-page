@@ -48,10 +48,6 @@ body {
     padding: 0 7px;
 }
 
-.nav-center {
-    margin-right: 150px;
-}
-
 .nav-center i {
     margin: 0 40px;
     padding: 20px;
@@ -75,7 +71,7 @@ body {
 .nav-right {
     display: flex;
     text-align: center;
-    gap: 7px;
+    gap: 20px;
 }
 
 .nav-right i {
@@ -98,7 +94,7 @@ body {
 .container {
     display: grid;
     grid-template-columns: 280px 1fr 300px;
-    gap: 150px;
+    gap: 20px;
     padding: 15px;
     margin: auto;
 }
